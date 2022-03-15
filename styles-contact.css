@@ -69,7 +69,7 @@ html, body {
     width: 800px;
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(255, 137, 192, 0.75); /*this uses opacity of 75% for the background color*/
+ 	background: rgba(228, 166, 195, 0.75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 }
 
@@ -83,7 +83,7 @@ h1 {
 	font-style: normal;
 	font-size: 5em;
     margin: 0px auto 10px auto;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 h2 {
@@ -91,7 +91,7 @@ h2 {
 	font-family: taurunum-ferrum-iron, sans-serif;
 	font-size: 1.5em;
     line-height: 1.4;
-    color: #fff;
+    color: rgb(0, 0, 0);
     padding: 0px 0px;
     margin: 0px auto 25px auto;
 }
@@ -100,8 +100,9 @@ p {
 	/* FONT-FAMILY GOES HERE CHOOSE FROM ADOBE FONTS OR GOOGLE FONTS */		
 	font-family: taurunum-ferrum-iron, sans-serif;
 	font-size: 1.2em;
+	letter-spacing: .01em;
     line-height: 1.6;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 nav {
@@ -110,8 +111,8 @@ font-weight: 400;
 font-style: normal;
 font-size: 1.4em;
 margin: 0px auto 10px auto;
-width: 267.5px;
-border: solid crimson;
+width: 267.4px;
+border: solid rgb(145, 0, 0);
 border-width: 4 px;
 
 text-align: center;
@@ -128,12 +129,12 @@ nav a{
 }
 
 a{
-	color:crimson;
+	color:rgb(145, 0, 0);
 	text-decoration: none;
 	font-weight: bold;
 }
 
 a:hover {
-	color:black;
-	background: red;
+	color:rgba(228, 166, 195, 0.75);
+	background: rgb(145, 0, 0);
 }
