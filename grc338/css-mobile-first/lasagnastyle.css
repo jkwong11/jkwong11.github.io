@@ -43,7 +43,7 @@ h3{
     font-size: 1.3em;
     text-transform: uppercase;
     margin-top: 2em;
-    margin-left: 1em;
+    margin-left: 1.3em;
 }
 
 body{
@@ -65,15 +65,15 @@ figcaption{
     font-family: poppins, sans-serif;  
     font-weight: 400;  
     font-style: italic;
-    margin: 1em;
+    margin: 1.6em;
 }
 
 ul{ 
-    margin: 1.3em;
+    margin: 1.6em;
 }
 
 ol{
-    margin: 1.3em;
+    margin: 1.6em;
 }
 
 li{
@@ -84,7 +84,7 @@ li{
 footer{
     background-color: rgb(239,141,52);
     color: rgb(249,222,191);
-    padding: 1em;
+    padding: 1.3em;
     
 }
 
