@@ -33,7 +33,7 @@ body {
 
 header {
 	display: grid;
-	grid-template-columns: 3fr 1fr;
+	grid-template-columns: auto auto;
 	background: rgb(204,204,204);
 	padding: 1em .25em;
 	}
